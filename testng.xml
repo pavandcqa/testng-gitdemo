@@ -6,6 +6,7 @@
       <class name="testcases.TestClass1"/>
       <class name="testcases.TestClass2"/>
       <class name="testcases.TestClass3"/>
+      <class name="maheshtestcases.LoginTestCases"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
